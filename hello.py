@@ -1,2 +1,2 @@
 print("Hello swetha")
-print("Thana")
+print("Thanasree")
